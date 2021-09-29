@@ -1,0 +1,9 @@
+IPv4 is 32-bit numbers that is dispaled in dotted decimal notaion and consists of two primary parts
+
+newtwork prefix
+host number
+
+IPv4 Classful Addressing
+
+Ipv4 Subnetting
+Ipv4 Variable-Length Subnet Masks
